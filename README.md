@@ -1,5 +1,5 @@
 # Application Users
-Tenemos dos aplicaciones :
+Tenemos tres elementos :
  1. BackEndNet7/SolutionCleanArchitecture        
      Se debe ejecutar con el puerto https://localhost:44355 mediante IIS Express
  2. FrontEndAngular14/app-web-users         
